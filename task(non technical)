@@ -1,0 +1,15 @@
+Identify an ML problem
+•	Recommendation of videos on TIKTOK for fresh users.
+Classify the ML type
+•	It’s Reforcement Learning algorithm because it doesn’t have a data or information about the user. So they learn through by recommend random video to user and see if the user :
+	 Tap the button of like
+	Tap the button of follow
+	Tap the button copy link
+	Watch hour of the video, etc..
+Outline the ML work flow
+1.	Recommend random video based on the local environment 
+2.	See the user reaction(like, follow, watch hour, copy link, etc.…..)
+3.	Learn the information from the last 5 videos
+4.	Based on the information recommend videos
+Identify one possible failure point
+Bad Evaluation: by keeping the user data recorded and make sure the data of quality.
